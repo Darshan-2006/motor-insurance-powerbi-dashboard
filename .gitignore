@@ -1,0 +1,15 @@
+# Power BI temp/cache
+*.pbix.tmp
+*.pbi/
+.pbi/
+# Decompressed raw data (keep the .gz version in the repo)
+data/raw/*.csv
+# Python
+__pycache__/
+*.pyc
+.venv/
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

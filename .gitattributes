@@ -1,0 +1,4 @@
+*.pbix binary
+*.xlsx binary
+*.gz   binary
+*.png  binary
